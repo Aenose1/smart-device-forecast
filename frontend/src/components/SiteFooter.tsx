@@ -19,6 +19,7 @@ export default function SiteFooter() {
             <li><Link className="hover:text-white" to="/laptops">Laptops</Link></li>
             <li><Link className="hover:text-white" to="/compare">Compare devices</Link></li>
             <li><Link className="hover:text-white" to="/predict">Price forecast</Link></li>
+            <li><a className="hover:text-white text-indigo-400 font-medium" href="/api/docs" target="_blank" rel="noopener noreferrer">FastAPI Backend (Swagger Docs) ↗</a></li>
             <li><Link className="hover:text-white" to="/about">About</Link></li>
           </ul>
         </div>

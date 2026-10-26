@@ -32,6 +32,7 @@ export default function SiteNav() {
       <NavLink to="/laptops" className={linkCls}>Laptops</NavLink>
       <NavLink to="/compare" className={linkCls}>Compare</NavLink>
       <NavLink to="/predict" className={linkCls}>Price Forecast</NavLink>
+      <a href="/api/docs" target="_blank" rel="noopener noreferrer" className="rounded-lg px-3 py-2 text-sm font-medium transition text-indigo-600 hover:bg-indigo-50 hover:text-indigo-800">API Docs ↗</a>
       <NavLink to="/about" className={linkCls}>About</NavLink>
     </>
   );
