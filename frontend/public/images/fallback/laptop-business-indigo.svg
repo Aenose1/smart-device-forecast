@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Laptop illustration"><defs>
+<linearGradient id="bglbusinessindigo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f7fd"/><stop offset="1" stop-color="#e3eaf6"/></linearGradient>
+<linearGradient id="scrlbusinessindigo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#312e81"/><stop offset="1" stop-color="#6366f1"/></linearGradient>
+<linearGradient id="bodylbusinessindigo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2b3445"/><stop offset="1" stop-color="#0f1523"/></linearGradient>
+<linearGradient id="metallbusinessindigo" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e8edf5"/><stop offset="1" stop-color="#b9c3d4"/></linearGradient>
+<radialGradient id="glowlbusinessindigo" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#a5b4fc" stop-opacity=".55"/><stop offset="1" stop-color="#a5b4fc" stop-opacity="0"/></radialGradient>
+<filter id="shlbusinessindigo" x="-20%" y="-10%" width="140%" height="140%"><feDropShadow dx="0" dy="10" stdDeviation="9" flood-color="#0f1b2d" flood-opacity=".28"/></filter>
+</defs><rect width="400" height="300" fill="url(#bglbusinessindigo)"/><ellipse cx="200" cy="150" rx="150" ry="104" fill="url(#glowlbusinessindigo)"/><g filter="url(#shlbusinessindigo)"><rect x="74.0" y="50" width="252" height="164" rx="12" fill="url(#bodylbusinessindigo)"/><rect x="80.0" y="56" width="240" height="152" rx="6" fill="#0b1020"/><rect x="85.0" y="61" width="230" height="142" rx="4" fill="url(#scrlbusinessindigo)"/>
+<ellipse cx="264.4" cy="92.2" rx="87.4" ry="42.6" fill="url(#glowlbusinessindigo)"/>
+<polyline points="103.4,166.1 135.6,151.9 167.8,160.4 200.0,132.0 232.2,140.5 264.4,109.3 296.6,97.9" fill="none" stroke="#fff" stroke-opacity=".9" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="103.4" y="75.2" width="69.0" height="4.3" rx="2" fill="#fff" fill-opacity=".55"/>
+<rect x="103.4" y="83.7" width="41.4" height="3.6" rx="2" fill="#fff" fill-opacity=".3"/><circle cx="200" cy="55.5" r="1.8" fill="#43506b"/><path d="M74.0 214 H326.0 L337.0 236 Q337.0 244 329.0 244 H71.0 Q63.0 244 63.0 236 Z" fill="url(#bodylbusinessindigo)"/><rect x="166" y="214" width="68" height="6" rx="3" fill="#000" fill-opacity=".22"/><rect x="73.0" y="236" width="14" height="4" rx="2" fill="#d33"/></g></svg>

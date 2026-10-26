@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Laptop illustration"><defs>
+<linearGradient id="bglultrabookteal" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f7fd"/><stop offset="1" stop-color="#e3eaf6"/></linearGradient>
+<linearGradient id="scrlultrabookteal" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f4c5c"/><stop offset="1" stop-color="#14a3a8"/></linearGradient>
+<linearGradient id="bodylultrabookteal" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2b3445"/><stop offset="1" stop-color="#0f1523"/></linearGradient>
+<linearGradient id="metallultrabookteal" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e8edf5"/><stop offset="1" stop-color="#b9c3d4"/></linearGradient>
+<radialGradient id="glowlultrabookteal" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#7ee0dc" stop-opacity=".55"/><stop offset="1" stop-color="#7ee0dc" stop-opacity="0"/></radialGradient>
+<filter id="shlultrabookteal" x="-20%" y="-10%" width="140%" height="140%"><feDropShadow dx="0" dy="10" stdDeviation="9" flood-color="#0f1b2d" flood-opacity=".28"/></filter>
+</defs><rect width="400" height="300" fill="url(#bglultrabookteal)"/><ellipse cx="200" cy="150" rx="150" ry="104" fill="url(#glowlultrabookteal)"/><g filter="url(#shlultrabookteal)"><rect x="74.0" y="50" width="252" height="170" rx="12" fill="url(#metallultrabookteal)"/><rect x="80.0" y="56" width="240" height="158" rx="6" fill="#0b1020"/><rect x="85.0" y="61" width="230" height="148" rx="4" fill="url(#scrlultrabookteal)"/>
+<ellipse cx="264.4" cy="93.6" rx="87.4" ry="44.4" fill="url(#glowlultrabookteal)"/>
+<polyline points="103.4,170.5 135.6,155.7 167.8,164.6 200.0,135.0 232.2,143.9 264.4,111.3 296.6,99.5" fill="none" stroke="#fff" stroke-opacity=".9" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="103.4" y="75.8" width="69.0" height="4.4" rx="2" fill="#fff" fill-opacity=".55"/>
+<rect x="103.4" y="84.7" width="41.4" height="3.7" rx="2" fill="#fff" fill-opacity=".3"/><circle cx="200" cy="55.5" r="1.8" fill="#43506b"/><path d="M74.0 220 H326.0 L337.0 242 Q337.0 250 329.0 250 H71.0 Q63.0 250 63.0 242 Z" fill="url(#metallultrabookteal)"/><rect x="166" y="220" width="68" height="6" rx="3" fill="#000" fill-opacity=".22"/></g></svg>
