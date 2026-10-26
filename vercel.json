@@ -5,9 +5,7 @@
       "root": "frontend"
     },
     "app": {
-      "root": ".",
-      "framework": "fastapi",
-      "entrypoint": "api/index.py:app"
+      "root": "."
     }
   },
   "rewrites": [
