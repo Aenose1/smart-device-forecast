@@ -1,0 +1,12 @@
+{
+  "name": "smart-device-forecast",
+  "private": true,
+  "scripts": {
+    "build": "npm --prefix frontend install && npm --prefix frontend run build",
+    "install:web": "npm --prefix frontend install",
+    "dev:web": "npm --prefix frontend run dev",
+    "build:web": "npm --prefix frontend run build",
+    "dev:api": "uvicorn backend.app.main:app --reload --port 8000",
+    "test": "pytest -q backend/tests"
+  }
+}
